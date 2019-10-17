@@ -17,7 +17,6 @@
 	<link rel="stylesheet" href="skin/maquette.css" media="screen" />
 	<link rel="stylesheet" href="skin/maquetteCatalogue.css" media="screen" />
 	<!--<link rel="stylesheet" href="skin/maquette2.css" media="screen" />-->
-	<!--MY NAME is-->
 	<!-- <script src="script.js"></script> -->
 </head>
 
