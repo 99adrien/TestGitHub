@@ -18,6 +18,7 @@
 	<link rel="stylesheet" href="skin/maquetteCatalogue.css" media="screen" />
 	<!--<link rel="stylesheet" href="skin/maquette2.css" media="screen" />-->
 	<!--MY NAME is-->
+	<!-- YOLO -->
 	<!-- <script src="script.js"></script> -->
 </head>
 
