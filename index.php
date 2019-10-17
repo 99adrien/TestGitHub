@@ -14,6 +14,7 @@
 
 	<link rel="shortcut icon" href="skin/favicon.ico" />
 	<link rel="icon" href="skin/favicon_anime.gif" />
+	FZEIHRFHKUGFUHDHDFGJGDGDKJDF
 	<link rel="stylesheet" href="skin/maquette.css" media="screen" />
 	<link rel="stylesheet" href="skin/maquetteCatalogue.css" media="screen" />
 	<!--<link rel="stylesheet" href="skin/maquette2.css" media="screen" />-->
